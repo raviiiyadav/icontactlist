@@ -1,7 +1,7 @@
 {
-  "name": "inotebook",
+  "name": "icontactlist",
   "version": "1.0.0",
-  "description": "inotebook-your notebook on cloud",
+  "description": "icontactlist-your icontactlist on cloud",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
